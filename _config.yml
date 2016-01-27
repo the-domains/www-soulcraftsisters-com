@@ -1,12 +1,27 @@
+name: Www.soulcraftsisters.com
+favicon: null
 layout_spectrum: 0.8763441
 typography_spectrum: 0.9516129
+title: Soul Craft Sisters
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2363935
-  lightness: 0.7779934
-  brandStrength: 0.8584229
   brandColors:
     - '#160F0B'
     - '#DFE0E0'
     - '#5B5D5C'
+  brandStrength: 0.8584229
+  lightness: 0.7779934
+  saturation: 0.2363935
   rhythmicContrast: 0.3031586
-name: Www.soulcraftsisters.com
+purpose: []
